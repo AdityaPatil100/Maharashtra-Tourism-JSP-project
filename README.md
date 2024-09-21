@@ -1,7 +1,7 @@
 
-# Maharashtra-Tourism-Web-mini-project
-JSP, java, CSS and MySQL mini project of web technology
-This is the web project with mysql connectivity.
+# Maharashtra-Tourism-Web-project
+JSP, java, CSS, MySQL, and Tomcat server are used in this project of web technology
+This is the web project with MySQL connectivity.
 the project focuses on tourism business model
 
 ![Screenshot (12)](https://github.com/AdityaPatil1000/Maharashtra-Tourism-Web-mini-project/assets/86911300/ebce49ee-281f-4a87-810e-df1ff10bb3b7)
@@ -15,4 +15,5 @@ the project focuses on tourism business model
 
 
 https://github.com/AdityaPatil1000/Maharashtra-Tourism-Web-mini-project/assets/86911300/54b86e5c-31fb-4407-b144-f8c6321f55bc
+<pre>Purpose of this code to use MVC architecture, and understand system development insights </pre>
 
